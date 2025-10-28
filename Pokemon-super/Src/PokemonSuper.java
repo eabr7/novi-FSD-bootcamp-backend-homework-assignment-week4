@@ -1,4 +1,4 @@
-class PokemonSuper {
+abstract class PokemonSuper {
 
 
 
