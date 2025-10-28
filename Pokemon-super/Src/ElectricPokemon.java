@@ -1,0 +1,4 @@
+class ElectricPokemon extends PokemonSuper {
+
+
+}

@@ -1,0 +1,4 @@
+class FirePokemon extends PokemonSuper {
+
+
+}
